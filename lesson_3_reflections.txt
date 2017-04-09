@@ -1,1 +1,2 @@
-Start
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+  Branches are commits with labels.  When you clone a repository, a remote is automatically created for you that includes all commits, including branches, from the repo.  You can clone locally  or from a remote repo.  A fork is a function of github.  You are cloning on the github servers. More efficient way instead of cloning locally, creating repo on github, and then pushing.  
